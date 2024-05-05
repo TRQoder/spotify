@@ -1,0 +1,66 @@
+.flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.item-center {
+    align-items: center;
+}
+
+.border {
+    border: 2px solid red;
+    margin: 3px;
+}
+
+.invert {
+    filter: invert(1);
+}
+
+.bg-black {
+    background-color: black;
+    color: white;
+}
+
+.bg-grey {
+    background-color: #121212;
+}
+
+.rounded {
+    border-radius: 7px;
+}
+
+.m-1 {
+    margin: 5px;
+}
+
+.p-1 {
+    padding: 10px;
+}
+
+.roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* For WebKit browsers like Chrome and Safari */
+::-webkit-scrollbar {
+  width: 12px; /* Width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: #333; /* Track color */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #666; /* Thumb color */
+  border-radius: 6px; /* Rounded corners */
+}
+
+/* For Firefox */
+/* Note: Firefox currently doesn't support styling scrollbars with CSS except for scrollbar-color property */
+/* You can use scrollbar-color property like this */
+/* scrollbar-color: #666 #333; */

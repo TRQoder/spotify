@@ -1,0 +1,40 @@
+To invert image:
+    filter: invert(1);
+width
+width : calc(100vw-20px)
+
+target : jahan pe click hoga wahi milega 
+currenTarget : jispe click listener laga hoga wo milega
+
+
+?id kya direct access ho jata hai
+
+
+
+
+
+
+
+
+
+Revise :
+    position
+    promise
+    api
+    async await
+    java script
+    arrays and all types of loops 
+    play audio
+
+    split
+    slice
+
+problems:
+
+
+continue
+   4:50:00
+
+
+revison :
+    make seekbar
